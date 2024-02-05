@@ -18,9 +18,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/6cb376a988f043a9bf5ce6ca06e6fab7">
+    </a>
+    <a href="https://www.loom.com/share/6cb376a988f043a9bf5ce6ca06e6fab7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6cb376a988f043a9bf5ce6ca06e6fab7-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 An app that I would like to build is a recipe application for family/local recipes. Although there are many recipes online already, I want an application that will store my own recipes and recipes that have been passed on for generations in my family. I want to include many features to make it easy to add the recipe, for example, the ability to read and store handwritten recipes. Additionally, I would love to add a social feature where you can send others requests to send you a recipe of something they made that you loved. I also want to include various languages in the application to allow recipes of various cultures to be stored.
